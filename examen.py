@@ -39,4 +39,3 @@ def calcular_total_barriles(df):
         return None
     
 print(calcular_total_barriles(df_final))
-# funcion para calcular el promedio de barriles
